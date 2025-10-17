@@ -19,20 +19,11 @@
   </summary> 
   <br>
   <p>
-    <a href="https://fresh-coal-bb8.notion.site/Jieun-Jang-165862e468a680a0bec8ef6f769fb0cb" target="_blank">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge">
-    </a>
-  </p>
-  <p>
-    <a href="https://zzangzing.tistory.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Tistory-EC6653?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge">
-    </a>
-  </p>
-  <p>
-    <a href="mailto:zzing7120@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-  </p>
+  <a href="https://fresh-coal-bb8.notion.site/Jieun-Jang-165862e468a680a0bec8ef6f769fb0cb" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp;&nbsp;<!--
+  --><a href="https://zzangzing.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EC6653?style=for-the-badge&logo=tistory&logoColor=white"></a>&nbsp;&nbsp;<!--
+  --><a href="mailto:zzing7120@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
 </details>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" /> **기술 스택**
