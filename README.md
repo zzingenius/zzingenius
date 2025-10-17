@@ -1,4 +1,4 @@
-![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=welcome&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
+![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=0:EAA0E1,100:517BC7&text=welcome&strokeWidth=2&fontColor=ffffff&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="40" height="40" /> 제 소개를 하자면..
@@ -43,20 +43,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzingenius)](https://github.com/anuraghazra/github-readme-stats)
 
-![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Thankyou😙&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
+![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Thank%20you😙&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
 
 <!--
 [![zzingenius's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzingenius)](https://github.com/anuraghazra/github-readme-stats)
-**zzingenius/zzingenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
