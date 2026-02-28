@@ -8,9 +8,17 @@
 <details> 
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="30" height="30" /> <b>제가 요즘 공부하고 있는 건요..</b> 
   </summary> 
-  주로 <b>Java</b> 언어를 활용하여 <b>Android</b> 앱을 개발하고 있습니다.<br>
-  <b>UI 구성, 데이터 통신, WearOS 연동</b> 등 다양한 기능 구현을 경험하고 있으며, 최근에는 코드 효율성과 가독성을 높이기 위해 Kotlin 문법과 Android 최신 아키텍처에도 관심을 두고 있습니다.
-꾸준히 더 나은 사용자 경험과 구조적인 코드를 지향하고 있습니다.
+   현재 <b>Kotlin</b>을 활용한 안드로이드 최신 기술을 습득하고 있습니다!<br>
+
+- ⏳ **Concurrency** :  ![Coroutines](https://img.shields.io/badge/Coroutines-07405E?style=for-the-badge&logo=kotlin&logoColor=white)  
+  *Coroutine을 활용한 비동기 프로그래밍 최적화 및 동시성 제어*
+
+- 🎨 **UI Framework** : ![Jetpack Compose](https://img.shields.io/badge/jetpack%20compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)  
+  *선언형 UI 패러다임 습득 및 현대적인 레이아웃 설계*
+
+- 🔥 **Infrastructure** : ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)  
+  *Firebase Auth, Cloud Firestore, Cloud Messaging(FCM) 연동*
+  
 </details>
 
 
