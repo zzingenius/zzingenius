@@ -8,7 +8,7 @@
 <details> 
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="30" height="30" /> <b>제가 요즘 공부하고 있는 건요..</b> 
   </summary> 
-   현재 <b>Kotlin</b>을 활용한 안드로이드 최신 기술을 습득하고 있습니다!<br>
+   현재 <b>Kotlin</b>을 활용하여 안드로이드 최신 기술을 습득하고 있습니다!<br>
 
 - ⏳ **Concurrency** :  ![Coroutines](https://img.shields.io/badge/Coroutines-07405E?style=for-the-badge&logo=kotlin&logoColor=white)  
   *Coroutine을 활용한 비동기 프로그래밍 최적화 및 동시성 제어*
