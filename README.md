@@ -2,8 +2,10 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20in%20Clouds.png" alt="Face in Clouds" width="40" height="40" /> 제 소개를 하자면..
-안녕하세요! ***안드로이드 개발자 장지은*** 입니다. \
-저는 JAVA를 기반으로 하여 개발을 하고 있으며 사용자 친화적인 UI를 개발하는 것에 중점을 두고 있습니다. 도전을 두려워하지 않고 끊임없이 질문을 던지며 더 나은 코드를 작성하기 위해 노력하는 것이 저의 특징입니다.
+안녕하세요! ***신입 안드로이드 개발자 장지은*** 입니다. \
+Java 기반 개발 경험을 바탕으로, 현재는 **Kotlin**과 **Jetpack Compose**의 생산성에 매료되어 최신 안드로이드 개발 패러다임을 체득하고 있습니다. <br>
+현재에 안주하기 보다 변화하는 기술 스택에 빠르게 적응하는 것을 즐기며, 새로운 기술을 프로젝트에 녹여낼 때 가장 큰 보람을 느낍니다. <br> 
+***‘어제보다 더 나은 설계’*** 를 목표로 끊임없이 배우며 성장하고 있습니다.
 
 <details> 
   <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="30" height="30" /> <b>제가 요즘 공부하고 있는 건요..</b> 
