@@ -43,8 +43,9 @@ Java 기반 개발 경험을 바탕으로, 현재는 **Kotlin**과 **Jetpack Com
 ![badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+<!--
 [![zzing's stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zzingenius)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 ![blur](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Thank%20you😙&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false)
